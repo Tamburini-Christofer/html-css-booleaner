@@ -32,20 +32,45 @@ figcaption{
     font-size: 14px;
 }
 /* Sezione tabella */
+table{
+    border-spacing: 0px; /*imparato al foundemantal camps :)*/
+}
+
 .thead{
     background-color: #1FAAE6;
     text-align: left;
-    color: white;
+    color: white;    
 }
 .colorate{
     background-color: #B1E6F2;
 }
 
-/* Paragrafo post tabella */
-
 /*Footer*/
 
+.testo-grigio{
+    color: grey;
+}
+.ImmaginiScritta1{
+    width: 300px;
+    height: 210px;
+    background-image: url(img/monitor.jpg);
+    background-repeat: no-repeat;
+    padding: 10px;
+}
+.ImmaginiScritta2{
+    width: 300px;
+    height: 210px;
+    background-image: url(img/graph.jpg);
+    background-repeat: no-repeat;
+    padding: 10px;
+}
 
+.ScrittaImmagini{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+}
 
 
 
