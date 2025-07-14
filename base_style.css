@@ -1,18 +1,42 @@
-/*Generali/*
+/*Generali*/
 
-/* Header /*
+/* Header */
+.Testata{
+    height: 100px;
+    background-color: #4EA1FF;
+    background-image:url(../html-css-booleaner/img/pattern.png);
+    background-size: 400px;
+}
+.Logo{
+    height: 40px;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+.PrincipalTitle{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 48px;
+}
+cite {
+    font-style: normal;
+}
+a{
+    color: rgb(0, 85, 255);
+    font-style: normal;
+}
+/* Immagini sottotitolo */
+figure img{
+    height: 400px;
+}
+/* Main */
 
-/* Intestazione con logo /*
+/* Sezione paragrafo + lista */
 
-/* Main /*
+/* Sezione tabella */
 
-/* Sezione paragrafo + lista /*
+/* Paragrafo post tabella */
 
-/* Sezione tabella /*
+/*Footer*/
 
-/* Paragrafo post tabella/*
-
-/*Footer/*
 
 
 
