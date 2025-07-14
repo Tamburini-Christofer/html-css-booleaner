@@ -23,15 +23,23 @@ a{
     color: rgb(0, 85, 255);
     font-style: normal;
 }
-/* Immagini sottotitolo */
+/* Immagini sotto al titolo */
+
 figure img{
     height: 400px;
 }
-/* Main */
-
-/* Sezione paragrafo + lista */
-
+figcaption{
+    font-size: 14px;
+}
 /* Sezione tabella */
+.thead{
+    background-color: #1FAAE6;
+    text-align: left;
+    color: white;
+}
+.colorate{
+    background-color: #B1E6F2;
+}
 
 /* Paragrafo post tabella */
 
