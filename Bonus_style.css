@@ -1,16 +1,17 @@
-/*Generali*/
 
-    .bonus{
-        max-width: 70%5;
-        margin-left: 200px;
-    }
+.bonus{
+    margin-left: 200px;
+    margin-right: 200px;
+}
 
 /* Header */
+
 .Testata{
     height: 100px;
     background-color: #4EA1FF;
     background-image:url(../html-css-booleaner/img/pattern.png);
     background-size: 400px;
+    
 }
 .Logo{
     height: 60px;
@@ -28,17 +29,26 @@ a{
     color: rgb(0, 85, 255);
     font-style: normal;
 }
+
 /* Immagini sotto al titolo */
 
 figure img{
-    height: 400px;
+    height: 250px;
 }
 figcaption{
     font-size: 14px;
 }
+
+/* Lista */
+
+ul{
+            padding-inline-start: 15px;
+}
+
 /* Sezione tabella */
+
 table{
-    border-spacing: 0px; /*imparato al foundemantal camps :)*/
+    border-spacing: 0px; /*imparato al fundementals camps :)*/
 }
 
 .thead{
